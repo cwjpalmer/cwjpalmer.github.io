@@ -1,0 +1,11 @@
+body {
+	background-color: #F0F0F0;
+}
+
+#tagline {
+	color: #0089fd; /* was 3300FF */
+	text-align: center; 
+	padding: 33% 0;
+	font-size: 40px; 
+	font-family: Helvetica;
+}
