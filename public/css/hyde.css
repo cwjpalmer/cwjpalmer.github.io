@@ -208,7 +208,7 @@ img {
 
 a {
   font-weight: 600;
-  color: #222;
+  color: #0059d2;
   text-decoration: none;
 }
 a:hover,
@@ -281,6 +281,7 @@ a:focus {
   }
   .masthead h1 {
     font-size: 64px;
+    font-color: #C00;
   }
   .colophon {
     margin-top: 40px;
