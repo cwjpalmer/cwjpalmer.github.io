@@ -233,7 +233,7 @@ a:focus {
 }
 
 /* Masthead content */
-.masthead h1 {
+.masthead-inner h1 {
   margin-top: 0;
   font-size: 40px;
   font-family: "Abril Fatface";
