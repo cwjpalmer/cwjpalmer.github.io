@@ -156,6 +156,9 @@ pre code {
 .highlight pre {
   margin-bottom: 0;
 }
+.footer {
+  font-size: 12px;
+}
 
 /* Quotes */
 blockquote {
@@ -276,12 +279,18 @@ a:focus {
   }
 }
 
-@media (min-width: 1600px) {
+@media (min-width: 1640px) {
   .masthead h1 {
     font-size: 52px;
   }
-  . lead {
+  .colophon {
     font-size: 26px;
+  }
+  .lead {
+    font-size: 26px;
+  }
+  .footer {
+    font-size: 18px;
   }
 }
 
@@ -291,9 +300,13 @@ a:focus {
   }
   .colophon {
     margin-top: 40px;
+    font-size: 32px;
   }
   .lead {
     font-size: 32px;
+  }
+  .footer {
+    font-size: 22px;
   }
 }
 
