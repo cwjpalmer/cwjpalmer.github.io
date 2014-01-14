@@ -255,7 +255,7 @@ a:focus {
   color: inherit;
 }
 .apart {
-  line-height: 1.5em;
+  margin-top: 13px;
 }
 
 /* Responsive masthead */
