@@ -280,7 +280,10 @@ a:focus {
     right: 0;
     left: 0;
   }
-  .masthead h1 {
+}
+
+@media (min-width: 2100px) {
+   .masthead h1 {
     font-size: 64px;
     font-color: #CC0000;
   }
