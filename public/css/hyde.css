@@ -192,12 +192,6 @@ img {
   font-size: 20px;
   font-weight: 300;
 }
-/* @media (min-width: 990px) {
-  .lead {
-    font-size: 24px;
-  }
-} */
-
 
 /*
  * Links
@@ -282,13 +276,24 @@ a:focus {
   }
 }
 
+@media (min-width: 1600px) {
+  .masthead h1 {
+    font-size: 52px;
+  }
+  . lead {
+    font-size: 26px;
+  }
+}
+
 @media (min-width: 2100px) {
    .masthead h1 {
     font-size: 64px;
-    font-color: #CC0000;
   }
   .colophon {
     margin-top: 40px;
+  }
+  .lead {
+    font-size: 32px;
   }
 }
 
