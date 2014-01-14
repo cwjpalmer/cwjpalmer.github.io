@@ -192,11 +192,11 @@ img {
   font-size: 20px;
   font-weight: 300;
 }
-@media (min-width: 990px) {
+/* @media (min-width: 990px) {
   .lead {
     font-size: 24px;
   }
-}
+} */
 
 
 /*
