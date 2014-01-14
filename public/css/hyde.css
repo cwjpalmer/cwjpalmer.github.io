@@ -254,8 +254,8 @@ a:focus {
 .colophon-links li {
   color: inherit;
 }
-.half-height {
-  line-height: 0.5em;
+.apart {
+  line-height: 1.5em;
 }
 
 /* Responsive masthead */
