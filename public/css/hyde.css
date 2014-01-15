@@ -205,7 +205,7 @@ img {
 
 a {
   font-weight: 600;
-  color: #0059d2;
+  color: #0063ff;
   text-decoration: none;
 }
 a:hover,
@@ -234,6 +234,7 @@ a:focus {
   margin-top: 0;
   font-size: 40px;
   font-family: "Abril Fatface";
+  font-weight: 300;
 }
 .masthead .lead {
   margin-bottom: 0;
