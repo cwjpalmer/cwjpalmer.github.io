@@ -304,26 +304,21 @@ bt {
     color: #999999;
 }
 
-#link-glyphicon {
-    font-size: 12px;
-    color: #1A54BC;
-    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
-    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
-    transition: color 0.1s ease-in, background 0.1s ease-in;
+#linkglyphicon {
+    font-size: 16px;
+    font-color: #1A54BC;
 }
 
 
-#link-glyphicon:hover,
-#link-glyphicon:focus {
+#linkglyphicon:hover,
+#linkglyphicon:focus {
     color: #7b7b7b;
     text-decoration: none;
     outline: 0;
 }
 
-#link-glyphicon:before,
-#link-glyphicon:after {
+#linkglyphicon:before,
+#linkglyphicon:after {
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
     -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
