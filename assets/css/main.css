@@ -271,6 +271,7 @@ bt {
 /* social media icons from JA & SH*/
 
 .ccsmi-container a {
+    font-size: 48px;
     border: none !important;
     display: inline-block !important;
     text-align: center  !important;
@@ -292,10 +293,6 @@ bt {
 .glyphicon {
 	font-size: 40px;
 	color: #1A54BC;
-}
-
-.bigicon {
-    font-size: 48px;
 }
 
 #greyglyphicon {
