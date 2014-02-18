@@ -9,6 +9,25 @@
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 
+/* social media icons from JA & SH*/
+
+.ccsmi-container a {
+    border: none !important;
+    display: inline-block !important;
+    text-align: center  !important;
+    text-decoration: none  !important;
+    width: 35px  !important;
+    height: 35px  !important;
+    line-height: 35px  !important;
+    color: #ffffff  !important;
+    background: #1A54BC  !important;
+}
+
+.ccsmi-container a:hover {
+    color: #1A54BC  !important;
+    background: #ffffff  !important;
+}
+
 body {
   	background-color: #ffffff;
   	font-family: 'Montserrat', sans-serif;
@@ -266,26 +285,6 @@ bt {
 
 .zoom2:hover {
 	opacity: 0.5;
-}
-
-/* social media icons from JA & SH*/
-
-.ccsmi-container a {
-    font-size: 48px;
-    border: none !important;
-    display: inline-block !important;
-    text-align: center  !important;
-    text-decoration: none  !important;
-    width: 35px  !important;
-    height: 35px  !important;
-    line-height: 35px  !important;
-    color: #ffffff  !important;
-    background: #1A54BC  !important;
-}
-
-.ccsmi-container a:hover {
-    color: #1A54BC  !important;
-    background: #ffffff  !important;
 }
 
 /* glyphicon Configuration */
