@@ -294,6 +294,10 @@ bt {
 	color: #1A54BC;
 }
 
+.bigicon {
+    font-size: 48px;
+}
+
 #greyglyphicon {
 	font-size: 20px;
 	color: #f2f2f2;
