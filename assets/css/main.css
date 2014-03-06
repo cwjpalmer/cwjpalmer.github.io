@@ -143,6 +143,11 @@ a:after {
   background-color: #1A54BC;
 }
 
+/* Picture Trim*/
+#headshot {
+    border-radius: 1000px;
+    border: 6px solid #1A54BC;
+}
 
 /* Footnotes */
 
