@@ -338,3 +338,11 @@ bt {
     -o-transition: color 0.1s ease-in, background 0.1s ease-in;
     transition: color 0.1s ease-in, background 0.1s ease-in;
 }
+
+#socialglyph {
+    font-size: 24px;
+}
+
+#socialicon {
+    font-size: 32px;
+}
