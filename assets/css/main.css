@@ -20,11 +20,11 @@
     height: 35px  !important;
     line-height: 35px  !important;
     color: #ffffff  !important;
-    background: #1A54BC  !important;
+    background: #761bb7  !important;
 }
 
 .ccsmi-container a:hover {
-    color: #1A54BC  !important;
+    color: #761bb7  !important;
     background: #ffffff  !important;
 }
 
@@ -67,7 +67,7 @@ p, ul {
 
 /* Links */
 a {
-    color: #1A54BC;
+    color: #761bb7;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -113,8 +113,8 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color: #1A54BC;
-	border-color: #1A54BC;
+	background-color: #761bb7;
+	border-color: #761bb7;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -140,13 +140,13 @@ a:after {
 }
 
 .progress-bar-theme {
-  background-color: #1A54BC;
+  background-color: #761bb7;
 }
 
 /* Picture Trim*/
 #headshot {
     border-radius: 1000px;
-    border: 6px solid #1A54BC;
+    border: 6px solid #761bb7;
 }
 
 /* Footnotes */
@@ -159,7 +159,7 @@ a:after {
 
 #footnote a:hover,
 #footnote a:focus {
-    color: #1A54BC;
+    color: #761bb7;
     text-decoration: none;
     outline: 0;
 }
@@ -263,7 +263,7 @@ bt {
 
 /* +++++ Submit Button +++++ */
 .btn-success {
-	background-color: #1A54BC;
+	background-color: #761bb7;
 	border-color: #164497;
 }
 
@@ -304,7 +304,7 @@ bt {
 
 .glyphicon {
 	font-size: 40px;
-	color: #1A54BC;
+	color: #761bb7;
 }
 
 #greyglyphicon {
@@ -319,7 +319,7 @@ bt {
 
 #linkglyphicon {
     font-size: 24px;
-    font-color: #1A54BC;
+    font-color: #761bb7;
 }
 
 
